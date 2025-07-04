@@ -29,4 +29,6 @@ int main(){
     }
     // cout<<even_subtract <<endl;
     cout<<"Result of Enven and Odd : = " <<result <<endl;
+
+    return 0;
 }
